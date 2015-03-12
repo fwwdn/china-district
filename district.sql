@@ -2872,3 +2872,10 @@ insert into `district` (`district_id`, `district_name`, `city_id`) values('2859'
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2860','哈巴河县','338');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2861','青河县','338');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2862','吉木乃县','338');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2863','石河子市','339');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2864','阿拉尔市','340');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2865','图木舒克市','341');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2866','五家渠市','342');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2867','香港市区内','343');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2868','澳门市区内','344');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2869','台湾市区内','345');
