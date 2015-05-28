@@ -1864,6 +1864,70 @@ insert into `district` (`district_id`, `district_name`, `city_id`) values('1851'
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1852','清新县','212');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1853','英德市','212');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1854','连州市','212');
+
+
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2870','莞城区','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2871','南城区','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2872','长安镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2873','寮步镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2874','大岭山镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2875','常平镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2876','厚街镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2877','万江区','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2878','樟木头镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2879','大朗镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2880','塘厦镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2881','凤岗镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2882','清溪镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2883','横沥镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2884','东坑镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2885','企石镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2886','茶山镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2887','东城区','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2888','虎门镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2889','黄江镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2890','石排镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2891','中堂镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2892','谢岗镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2893','松山湖','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2894','石碣镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2895','洪梅镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2896','麻涌镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2897','桥头镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2898','望牛墩镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2899','道滘镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2900','沙田镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2901','高埗镇','213');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2902','石龙镇','213');
+
+
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2903','东区街道','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2904','西区街道','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2905','南区街道','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2906','石岐区街道','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2907','火炬开发区','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2908','小榄镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2909','古镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2910','三乡镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2911','民众镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2912','东凤镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2913','横栏镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2914','三角镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2915','南头镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2916','沙溪镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2917','五桂山镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2918','阜沙镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2919','东升镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2920','板芙镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2921','神湾镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2922','港口镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2923','大涌镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2924','坦洲镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2925','黄圃镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2926','沙朗镇','214');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2927','南朗镇','214');
+
+
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1855','湘桥区','215');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1856','潮安县','215');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('1857','饶平县','215');
@@ -2635,6 +2699,15 @@ insert into `district` (`district_id`, `district_name`, `city_id`) values('2622'
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2623','永登县','298');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2624','皋兰县','298');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2625','榆中县','298');
+
+
+
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2928','雄关区','299');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2929','长城区','299');
+insert into `district` (`district_id`, `district_name`, `city_id`) values('2930','镜铁区','299');
+
+
+
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2626','金川区','300');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2627','永昌县','300');
 insert into `district` (`district_id`, `district_name`, `city_id`) values('2628','白银区','301');
