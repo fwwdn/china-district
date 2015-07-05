@@ -4,7 +4,6 @@ MySQL - 5.5.19-log
 *********************************************************************
 */
 /*!40101 SET NAMES utf8 */;
-
 create table `city` (
 	`city_id` bigint (20),
 	`city_name` varchar (150),
