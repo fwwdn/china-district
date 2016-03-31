@@ -9,7 +9,7 @@ create table `city` (
 	`city_name` varchar (150),
 	`post_code` varchar (150),
 	`province_id` bigint (20)
-); 
+)ENGINE=MYISAM DEFAULT CHARSET=utf8; 
 insert into `city` (`city_id`, `city_name`, `post_code`, `province_id`) values('1','北京市','100000','1');
 insert into `city` (`city_id`, `city_name`, `post_code`, `province_id`) values('2','天津市','100000','2');
 insert into `city` (`city_id`, `city_name`, `post_code`, `province_id`) values('3','石家庄市','050000','3');
